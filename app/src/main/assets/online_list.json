@@ -1,988 +1,528 @@
 {
-
-	"hindi_songs": {
+  "hindi_songs": {
+  
 		"a": [
-
-			"अब के बरस तुझे धरती की रानी कर देंगे ",
-
-			"अपनी तो जैसे तैसे थोड़ी ऐसे या वैसे कट जाएगी आप का क्या होगा जनाबे अली ",
-
-			"अगर आसमा तक मेरे हाथ जाते तो कदमो में तेरे सितारे बिछाते ",
-
-			"अजीब दास्ताँ है ये, कहाँ शुरू कहाँ ख़तम ",
-
-			"अजी रूठ कर अब कहाँ जाईयेगा जहाँ जाईयेगा हमें पाईयेगा ",
-
-			"अब तेरे बिन ज़ी लेंगे हम ज़हर ज़िंदगी का पी लेंगे हम ",
-
-			"अये मेरे दोस्त लौट के आजा बिन तेरे ज़िंदगी अधूरी है ",
-
-			"अगर तुम मिल जाओ जमाना छोड़ देंगे हम ",
-
-			"अपने दीवाने का कर दे बुरा हाल रे के अँखियों से गोली मारे लड़की कमाल रे ",
-
-			"अँखियों के झरोखों से मैंने देखा तुम दूर नजर आये बड़ी दूर नजर आये ",
-
-			"अजनबी मुझको इतना बता दिल मेरा क्यों परेशान है ",
-
-			"अंखिया मिलाऊ कभी अंखिया चुराऊ क्या तूने किया जादू ",
-
-			"अरे दीवानो मुझे पहचानो कहाँ से आया मै हूँ कौन, मै हूँ डॉन ",
-
-			"अल्लाह अल्लाह तारीफ तेरी अल्लाह अल्लाह, क्या सूरत तूने बनायीं ",
-
-			"आये हो मेरी ज़िंदगी में तुम बहार बनके ",
-
-			"आजा तुझको पुकारे मेरे गीत रे, मेरे मीत रे ओ मेरे मितवा ",
-
-			"आने से उसके आये बहार जाने से उसके जाये बहार बड़ी मस्तानी है मेरे मेहबूबा ",
-
-			"आज न छोड़ेंगे तुझे दम दमा दम ",
-
-			"आशिक बनाया आपने ",
-
-			"आवाज दो हमको हम खो गए कब नींद से जागे कब सो गए ",
-
-			"आज मेरे यार की शादी है ",
-
-			"आवारा हूँ, चाहे गर्दिश में हूँ आसमान का तारा हूँ आवारा हूँ ",
-
-			"आप की नजरों ने समझा प्यार के काबिल मुझे ",
-
-			"आज कल याद कुछ और रहता नहीं एक बस आपके याद आने के बाद ",
-
-			"आँचल में छुपा लेना कलियाँ जुल्फों में सितारे भर लेना ऐसे ही कभी जब शाम ढले तब याद हमे भी कर लेना ",
-
-			"आँखों में बसे हो तुम तुम्हे दिल में छुपा लूंगा ",
-
-			"आज जाने की जिद्द न करो",
-
-			"यूँ ही पहलू में बैठे रहो ",
-
-			"आज कल पाँव जमीं पर नहीं पड़ते मेरे ",
-
-			"आज की रात मेरे दिल की सलामी लेले ",
-
-			"आज मौसम बड़ा बेईमान है बड़ा बेईमान है आज मौसम ",
-
-			"आजा आजा मैं हूँ प्यार तेरा",
-
-			"वल्लाह वल्लाह इंकार तेरा ",
-
-			"आजा आयी बहार दिल है बेक़रार ",
-
-			"आने वाला पल जाने वाला है ",
-
-			"आओ बच्चों तुम्हे दिखाएँ झांकी हिन्दुस्तान की इस मिटटी से तिलक करो ये धरती है बलिदान की ",
-
-			"आप जैसा कोई मेरी जिंदगी में आये तो बात बन जाए ",
-
-			"आसमाँ पे है खुदा और जमीं पे हम आज कल वो इस तरफ देखता है कम ",
-
-			"अये क्या बोलती तू (आती क्या खंडाला )",
-
-			"आवारा भँवरे जो हौले हौले गायें ",
-
-			"अब के सजन सावन में आग लगेगी बदन में ",
-
-			"अभी न जाओ छोड़ कर के दिल अभी भरा नहीं",
-
-			"Aa Laut Ke Aja Mere Meet",
-
-			"Aaja Sanam Madhur Chandni Mein",
-
-			"Aane Wala Pal Jane Wala Hai",
-
-			"Aankh Marey O Ladki Aankh Mare",
-
-			"Aankhon Mein Teri Ajab Si Adaayein Hain",
-
-			"Aao Bachcho Tumhe Dikhaye Jhanki Hindustan Ki",
-
-			"Aapke Pyaar Mein Hum Savarne Lage",
-
-			"Aapki Nazro Ne Samjha Pyar Ke Kabil Mujhe",
-
-			"Aarti Kunj Bihari Ki",
-
-			"Aate Jate Khoobsurat Awara Sadkon Pe",
-
-			"Abhi Mujh Mein Kahin - Agneepath",
-
-			"Achyutam Keshavam Krishna Damodaram",
-
-			"Adha Hai Chandrama Raat Aadhi",
-
-			"Ae Watan Ae Watan Humko Teri Kasam",
-
-			"Agar Tum Mil Jao",
-
-			"Agar Tum Saath Ho - Pal Bhar Thahar Jaao",
-
-			"Aisa Des Hai Mera - Dharti Sunehri Ambar Neela",
-
-			"Aisi Lagi Lagan",
-
-			"Meera Ho Gayi Magan",
-
-			"Ajeeb Dastan Hai Yeh",
-
-			"Akele Hain To Kya Gum Hai",
-
-			"All I Want For Christmas Is You",
-
-			"Allah Ke Bande - Toota Toota ek Parinda",
-
-			"The Alphabet Song ABC - Nursery Rhyme",
-
-			"Ambe Tu Hai Jagdambe Kali - Devi Aarti",
-
-			"Ankhiyon Ke Jharokhon Se",
-
-			"Antakshari Hindi Songs List - A - Z",
-
-			"Apni To Jaise Taise",
-
-			"Thodi Aise Ya Waise",
-
-			"Are Re Are Ye Kya Hua - Dil To Pagal Hai",
-
-			"Aye Malik Tere Bande Hum - Updated",
-
-			"Aye Mere Humsafar Ek Zara Intezaar",
-
-			"Aye Mere Watan Ke Logo - Full Song ",
-
-			"Aye Watan Tere Liye - Dil Diya Hai Jaan Bhi Denge"
-
+		{"lyrics" : "अब के बरस तुझे धरती की रानी कर देंगे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अपनी तो जैसे तैसे थोड़ी ऐसे या वैसे कट जाएगी आप का क्या होगा जनाबे अली ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अगर आसमा तक मेरे हाथ जाते तो कदमो में तेरे सितारे बिछाते ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अजीब दास्ताँ है ये, कहाँ शुरू कहाँ ख़तम ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अजी रूठ कर अब कहाँ जाईयेगा जहाँ जाईयेगा हमें पाईयेगा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अब तेरे बिन ज़ी लेंगे हम ज़हर ज़िंदगी का पी लेंगे हम ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अये मेरे दोस्त लौट के आजा बिन तेरे ज़िंदगी अधूरी है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अगर तुम मिल जाओ जमाना छोड़ देंगे हम ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अपने दीवाने का कर दे बुरा हाल रे के अँखियों से गोली मारे लड़की कमाल रे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अँखियों के झरोखों से मैंने देखा तुम दूर नजर आये बड़ी दूर नजर आये ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अजनबी मुझको इतना बता दिल मेरा क्यों परेशान है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अंखिया मिलाऊ कभी अंखिया चुराऊ क्या तूने किया जादू ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अरे दीवानो मुझे पहचानो कहाँ से आया मै हूँ कौन, मै हूँ डॉन ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अल्लाह अल्लाह तारीफ तेरी अल्लाह अल्लाह, क्या सूरत तूने बनायीं ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आये हो मेरी ज़िंदगी में तुम बहार बनके ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आजा तुझको पुकारे मेरे गीत रे, मेरे मीत रे ओ मेरे मितवा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आने से उसके आये बहार जाने से उसके जाये बहार बड़ी मस्तानी है मेरे मेहबूबा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आज न छोड़ेंगे तुझे दम दमा दम ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आशिक बनाया आपने ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आवाज दो हमको हम खो गए कब नींद से जागे कब सो गए ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आज मेरे यार की शादी है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आवारा हूँ, चाहे गर्दिश में हूँ आसमान का तारा हूँ आवारा हूँ ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आप की नजरों ने समझा प्यार के काबिल मुझे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आज कल याद कुछ और रहता नहीं एक बस आपके याद आने के बाद ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आँचल में छुपा लेना कलियाँ जुल्फों में सितारे भर लेना ऐसे ही कभी जब शाम ढले तब याद हमे भी कर लेना ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आँखों में बसे हो तुम तुम्हे दिल में छुपा लूंगा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आज जाने की जिद्द न करो", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "यूँ ही पहलू में बैठे रहो ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आज कल पाँव जमीं पर नहीं पड़ते मेरे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आज की रात मेरे दिल की सलामी लेले ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आज मौसम बड़ा बेईमान है बड़ा बेईमान है आज मौसम ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आजा आजा मैं हूँ प्यार तेरा", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "वल्लाह वल्लाह इंकार तेरा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आजा आयी बहार दिल है बेक़रार ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आने वाला पल जाने वाला है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आओ बच्चों तुम्हे दिखाएँ झांकी हिन्दुस्तान की इस मिटटी से तिलक करो ये धरती है बलिदान की ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आप जैसा कोई मेरी जिंदगी में आये तो बात बन जाए ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आसमाँ पे है खुदा और जमीं पे हम आज कल वो इस तरफ देखता है कम ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अये क्या बोलती तू (आती क्या खंडाला )", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "आवारा भँवरे जो हौले हौले गायें ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अब के सजन सावन में आग लगेगी बदन में ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "अभी न जाओ छोड़ कर के दिल अभी भरा नहीं", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aa Laut Ke Aja Mere Meet", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aaja Sanam Madhur Chandni Mein", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aane Wala Pal Jane Wala Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aankh Marey O Ladki Aankh Mare", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aankhon Mein Teri Ajab Si Adaayein Hain", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aao Bachcho Tumhe Dikhaye Jhanki Hindustan Ki", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aapke Pyaar Mein Hum Savarne Lage", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aapki Nazro Ne Samjha Pyar Ke Kabil Mujhe", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aarti Kunj Bihari Ki", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aate Jate Khoobsurat Awara Sadkon Pe", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Abhi Mujh Mein Kahin - Agneepath", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Achyutam Keshavam Krishna Damodaram", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Adha Hai Chandrama Raat Aadhi", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ae Watan Ae Watan Humko Teri Kasam", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Agar Tum Mil Jao", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Agar Tum Saath Ho - Pal Bhar Thahar Jaao", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aisa Des Hai Mera - Dharti Sunehri Ambar Neela", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aisi Lagi Lagan", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Meera Ho Gayi Magan", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ajeeb Dastan Hai Yeh", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Akele Hain To Kya Gum Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "All I Want For Christmas Is You", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Allah Ke Bande - Toota Toota ek Parinda", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "The Alphabet Song ABC - Nursery Rhyme", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ambe Tu Hai Jagdambe Kali - Devi Aarti", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ankhiyon Ke Jharokhon Se", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Antakshari Hindi Songs List - A - Z", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Apni To Jaise Taise", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Thodi Aise Ya Waise", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Are Re Are Ye Kya Hua - Dil To Pagal Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aye Malik Tere Bande Hum - Updated", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aye Mere Humsafar Ek Zara Intezaar", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aye Mere Watan Ke Logo - Full Song ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aye Watan Tere Liye - Dil Diya Hai Jaan Bhi Denge"}
 		],
+
 
 		"b": [
-
-			"बेदर्दी से प्यार का सहारा न मिला ",
-
-			"बेवफा तेरा मासूम चेहरा दिल लगाने के काबिल नहीं है ",
-
-			"बेपनाह प्यार है आजा तेरा इंतज़ार है आजा ",
-
-			"बेख्याली में भी तेरा ही ख्याल आये ",
-
-			"बेदर्दी तेरे प्यार ने दीवाना कर दिया",
-
-			"बेवफा बेवफा बेवफा निकली है तू ",
-
-			"बरसात के मौसम में तन्हाई के आलम में मैं घर से निकल आया बोतल भी उठा लाया",
-
-			"Badan Pe Sitare Lapete Huye",
-
-			"Bade Achhe Lagte Hai - Updated",
-
-			"Badi Der Bhai Nandlala",
-
-			"Baharon Phool Barsao - Piano Notes",
-
-			"Bahut Pyar Karte Hai Tumko Sanam",
-
-			"Balam Pichkari Jo Tune Mujhe Mari",
-
-			"Banwari Re Jeene Ka Sahara",
-
-			"Behti Hawa Sa Tha Woh",
-
-			"Bekhayali - Kabir Singh (2019)",
-
-			"Bhagwan Hai Kahan Re Tu",
-
-			"Genda Phool - Badshah - Boro Loker Beti Lo",
-
-			"Hai Preet Jahan Ki Reet Sada - Bharat Ka Rehne Wala Hoon",
-
-			"Bahut Kathin Hai Dagar Panghat Ki - Roohi (2021)"
-
+		{"lyrics" : "बेदर्दी से प्यार का सहारा न मिला ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "बेवफा तेरा मासूम चेहरा दिल लगाने के काबिल नहीं है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "बेपनाह प्यार है आजा तेरा इंतज़ार है आजा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "बेख्याली में भी तेरा ही ख्याल आये ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "बेदर्दी तेरे प्यार ने दीवाना कर दिया", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "बेवफा बेवफा बेवफा निकली है तू ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "बरसात के मौसम में तन्हाई के आलम में मैं घर से निकल आया बोतल भी उठा लाया", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Badan Pe Sitare Lapete Huye", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Bade Achhe Lagte Hai - Updated", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Badi Der Bhai Nandlala", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Baharon Phool Barsao - Piano Notes", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Bahut Pyar Karte Hai Tumko Sanam", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Balam Pichkari Jo Tune Mujhe Mari", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Banwari Re Jeene Ka Sahara", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Behti Hawa Sa Tha Woh", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Bekhayali - Kabir Singh (2019)", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Bhagwan Hai Kahan Re Tu", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Genda Phool - Badshah - Boro Loker Beti Lo", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Hai Preet Jahan Ki Reet Sada - Bharat Ka Rehne Wala Hoon", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Bahut Kathin Hai Dagar Panghat Ki - Roohi (2021)"}
 		],
 
-		"c": [
-
-			"चार दिनों का प्यार ओ रब्बा लम्बी जुदाई ",
-
-			"चाहा है तुझको चाहूंगा हरदम ",
-
-			"चाहत न होती कुछ भी न होता ",
-
-			"चलो लें चले तुम्हे तारों के शहर में ",
-
-			"चलो इक बार फिरसे अजनबी बन जाएँ हम दोनों ",
-
-			"Chahun Main Ya Naa - Tu Hi Ye Mujhko Bata De",
-
-			"Chal Akela Chal Akela Tera Mela",
-
-			"Chalte Chalte Mere Yeh Geet",
-
-			"Chalte Chalte Yunhi Koi Mil Gaya Tha – Pakeezah",
-
-			"Chalte Chalte Yunhi Ruk Jata Hoon Main",
-
-			"Chalti Hai Kya 9 Se 12 - Keyboard Notes",
-
-			"Chand Mera Dil Chandni Ho Tum",
-
-			"Chand Si Mehbooba Ho Meri",
-
-			"Chand Sifarish Jo Karta Hamari",
-
-			"Chandan Sa Badan Chanchal Chitwan",
-
-			"Chandi Jaisa Rang Hai Tera",
-
-			"Sone Jaise Baal",
-
-			"Chehra Hai Ya Chand Khila - Sagar Jaisi Aankhon Wali",
-
-			"Chhoti Chhoti Gaiya Chhote Chhote Gwal",
-
-			"Chingari Koi Bhadke",
-
-			"to Sawan Use Bujhaye",
-
-			"Chookar Mere Man Ko",
-
-			"Kiya Tune Kya Isharaa",
-
-			"Chura Ke Dil Mera Goriya Chali",
-
-			"Chura Liya Hai Tumne Jo Dil Ko",
-
-			"Chehra Hai Ya Chand Khila - Sagar Jaisi Aankhon Wali"
-
+		
+		"c" : [
+		{"lyrics" : "चार दिनों का प्यार ओ रब्बा लम्बी जुदाई ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "चाहा है तुझको चाहूंगा हरदम ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "चाहत न होती कुछ भी न होता ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "चलो लें चले तुम्हे तारों के शहर में ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "चलो इक बार फिरसे अजनबी बन जाएँ हम दोनों ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chahun Main Ya Naa - Tu Hi Ye Mujhko Bata De", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chal Akela Chal Akela Tera Mela", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chalte Chalte Mere Yeh Geet", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chalte Chalte Yunhi Koi Mil Gaya Tha – Pakeezah", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chalte Chalte Yunhi Ruk Jata Hoon Main", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chalti Hai Kya 9 Se 12 - Keyboard Notes", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chand Mera Dil Chandni Ho Tum", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chand Si Mehbooba Ho Meri", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chand Sifarish Jo Karta Hamari", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chandan Sa Badan Chanchal Chitwan", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chandi Jaisa Rang Hai Tera", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sone Jaise Baal", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chehra Hai Ya Chand Khila - Sagar Jaisi Aankhon Wali", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chhoti Chhoti Gaiya Chhote Chhote Gwal", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chingari Koi Bhadke", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "to Sawan Use Bujhaye", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chookar Mere Man Ko", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kiya Tune Kya Isharaa", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chura Ke Dil Mera Goriya Chali", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chura Liya Hai Tumne Jo Dil Ko", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chehra Hai Ya Chand Khila - Sagar Jaisi Aankhon Wali"}
 		],
 
-		"d": [
-
-			"दिल दीवाने का डोला दिल दार के लिए ",
-
-			"दिल दे दिया है जान तुझे देंगे देगा नहीं करेंगे सनम ",
-
-			"दीवाना पूछ लेगा तेरा नाम पता ",
-
-			"दिल संभल जा जरा फिर मोहब्बत करने चला है तू ",
-
-			"दिल न दिया",
-
-			"दिल न लिया तो बोलो न बोलो क्या किया ",
-
-			"दिल इबादत कर रहा है धड़कने मेरी सुन",
-
-			"तुझको मैं कर लूँ हासिल लगी है यही धुन ",
-
-			"दिल ने यह कहा है दिलसे",
-
-			"मोहब्बत हो गई है तुमसे ",
-
-			"दिल मेरा तोड़ दिया उसने बुरा क्यों मानु",
-
-			"दिल में हो तुम आँखों में तुम पहली नजर से ही यारा ",
-
-			"दिल मेरा चाहे जब भी तू आये ",
-
-			"दिल मेरे तू दीवाना है पागल है मैंने माना है",
-
-			"पल पल आहे भरता है कहने से क्यों  डरता है ",
-
-			"दिल गलती कर बैठा है गलती कर बैठा है दिल",
-
-			"Aisa Des Hai Mera - Dharti Sunehri Ambar Neela",
-
-			"Aye Watan Tere Liye - Dil Diya Hai Jaan Bhi Denge",
-
-			"De Di Hame Azadi - Sabarmati Ke Sant",
-
-			"Dekhte Dekhte - Sochta Hoon ke Woh Kitne Masoom",
-
-			"Dhoom Machale Dhoom Machale Dhoom",
-
-			"Dil Apna Aur Preet Parai",
-
-			"Dil Galti Kar Baitha Hai (2021)",
-
-			"Dil Hai Chota Sa Choti Si Asha",
-
-			"Dil Hai Ke Manta Nahin",
-
-			"Dil Ibadat Kar Raha Hai",
-
-			"Dil Ke Jharoke Mein Tujko Bithakar",
-
-			"Dil Kya Kare Jab Kisi Se",
-
-			"Dil To Bachcha Hai Ji - Rahat Fateh Ali Khan",
-
-			"Dil To Pagal Hai",
-
-			"Dil Deewana Hai",
-
-			"Do Dil Mil Rahe Hain",
-
-			"Magar Chupke Chupke",
-
-			"Do Lafzon Ki Hai Dil Ki Kahani",
-
-			"Doston Is Jamane Ko Kya Ho Gaya"
-
+		"d" : [
+		{"lyrics" : "दिल दीवाने का डोला दिल दार के लिए ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दिल दे दिया है जान तुझे देंगे देगा नहीं करेंगे सनम ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दीवाना पूछ लेगा तेरा नाम पता ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दिल संभल जा जरा फिर मोहब्बत करने चला है तू ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दिल न दिया", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दिल न लिया तो बोलो न बोलो क्या किया ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दिल इबादत कर रहा है धड़कने मेरी सुन", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तुझको मैं कर लूँ हासिल लगी है यही धुन ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दिल ने यह कहा है दिलसे", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मोहब्बत हो गई है तुमसे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दिल मेरा तोड़ दिया उसने बुरा क्यों मानु", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दिल में हो तुम आँखों में तुम पहली नजर से ही यारा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दिल मेरा चाहे जब भी तू आये ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दिल मेरे तू दीवाना है पागल है मैंने माना है", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "पल पल आहे भरता है कहने से क्यों  डरता है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "दिल गलती कर बैठा है गलती कर बैठा है दिल", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aisa Des Hai Mera - Dharti Sunehri Ambar Neela", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Aye Watan Tere Liye - Dil Diya Hai Jaan Bhi Denge", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "De Di Hame Azadi - Sabarmati Ke Sant", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dekhte Dekhte - Sochta Hoon ke Woh Kitne Masoom", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dhoom Machale Dhoom Machale Dhoom", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dil Apna Aur Preet Parai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dil Galti Kar Baitha Hai (2021)", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dil Hai Chota Sa Choti Si Asha", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dil Hai Ke Manta Nahin", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dil Ibadat Kar Raha Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dil Ke Jharoke Mein Tujko Bithakar", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dil Kya Kare Jab Kisi Se", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dil To Bachcha Hai Ji - Rahat Fateh Ali Khan", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dil To Pagal Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dil Deewana Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Do Dil Mil Rahe Hain", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Magar Chupke Chupke", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Do Lafzon Ki Hai Dil Ki Kahani", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Doston Is Jamane Ko Kya Ho Gaya"}
 		],
 
-		"e": [
-
-			"Ehsaan Tera Hoga Mujh Par",
-
-			"Ek Ajnabi Haseena Se",
-
-			"Ek Din Bik Jayega Mati Ke Mol - Updated",
-
-			"Ek Din Bik Jayega Mati Ke Mol",
-
-			"Ek Haseena Thi Ek Deewana Tha",
-
-			"Ek Ladki Bheegi Bhagi Si",
-
-			"Ek Pardesi Mera Dil Le Gaya",
-
-			"Ek Pyar ka Nagma Hai",
-
-			"हम तुम इक कमरे में बंद हो और चाबी खो जाये ",
-
-			"हम उनसे मोहब्बत करके दिन रात सनम रोते हैं ",
-
-			"हम तुम्हे इतना प्यार करेंगे के लोग हमे याद करेंगे ",
-
-			"हमें तुमसे प्यार कितना ये हम नहीं जानते मगर जी नहीं सकते तुम्हारे बिना ",
-
-			"हार गया दिल फरियाद करके हम रो रहे हैं उन्हें याद करके ",
-
-			"हर कदम पर कोई कातिल है कहाँ जाये कोई"
-
+		"e" : [
+		{"lyrics" : "Ehsaan Tera Hoga Mujh Par", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ek Ajnabi Haseena Se", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ek Din Bik Jayega Mati Ke Mol - Updated", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ek Din Bik Jayega Mati Ke Mol", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ek Haseena Thi Ek Deewana Tha", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ek Ladki Bheegi Bhagi Si", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ek Pardesi Mera Dil Le Gaya", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ek Pyar ka Nagma Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "हम तुम इक कमरे में बंद हो और चाबी खो जाये ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "हम उनसे मोहब्बत करके दिन रात सनम रोते हैं ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "हम तुम्हे इतना प्यार करेंगे के लोग हमे याद करेंगे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "हमें तुमसे प्यार कितना ये हम नहीं जानते मगर जी नहीं सकते तुम्हारे बिना ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "हार गया दिल फरियाद करके हम रो रहे हैं उन्हें याद करके ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "हर कदम पर कोई कातिल है कहाँ जाये कोई"}
 		],
 
-		"g": [
 
-			"गैरों पे करम अपनों पे सितम अये जाने वफ़ा ये जुल्म न कर ",
-
-			"गुमनाम है कोई बदनाम है कोई ",
-
-			"गोरे रंग पे न इतना गुमान कर गोरा रंग दो दिन में ढल जायेगा ",
-
-			"गोरी हैं कलाईयाँ तू ला दे मुझे हरी हरी चूड़ियां अपना बना ले मुझे बालमा ",
-
-			"गोरे गोरे मुखड़े पे काला काला चश्मा तौबा खुदा खैर करे ",
-
-			"गोरी तोरी चुनरी बा लाल लाल रे रोड पे चलेलु कमाल चाल रे ",
-
-			"गोरे तन से सरकता जाये मेरा दिल ये धड़कता जाये ",
-
-			"गोरे बदन पे यार कुर्ती कसी कसी",
-
-			"मारे जवानी जोर मैं तो फसी फसी",
-
-			"Gaata Rahe Mera Dil",
-
-			"Galiyan Teri Galiyan",
-
-			"Gayatri Mantra - Om Bhur Bhuvah Swaha",
-
-			"Geet Gaata Chal O Saathi Gungunata Chal",
-
-			"Genda Phool - Badshah - Boro Loker Beti Lo",
-
-			"Gerua - Rang De Tu Mohe Geruaa",
-
-			"Ghar Se Nikalte Hi - Armaan Malik",
-
-			"Gulabi Aankhen Jo Teri Dekhi",
-
-			"घूंघटे में चंदा है  फिरभी है फैला चारो ओर उजाला होश न खो दे कहीं जोश में देखने वाला "
-
+		"g" : [
+		{"lyrics" : "गैरों पे करम अपनों पे सितम अये जाने वफ़ा ये जुल्म न कर ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "गुमनाम है कोई बदनाम है कोई ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "गोरे रंग पे न इतना गुमान कर गोरा रंग दो दिन में ढल जायेगा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "गोरी हैं कलाईयाँ तू ला दे मुझे हरी हरी चूड़ियां अपना बना ले मुझे बालमा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "गोरे गोरे मुखड़े पे काला काला चश्मा तौबा खुदा खैर करे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "गोरी तोरी चुनरी बा लाल लाल रे रोड पे चलेलु कमाल चाल रे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "गोरे तन से सरकता जाये मेरा दिल ये धड़कता जाये ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "गोरे बदन पे यार कुर्ती कसी कसी", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मारे जवानी जोर मैं तो फसी फसी", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Gaata Rahe Mera Dil", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Galiyan Teri Galiyan", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Gayatri Mantra - Om Bhur Bhuvah Swaha", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Geet Gaata Chal O Saathi Gungunata Chal", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Genda Phool - Badshah - Boro Loker Beti Lo", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Gerua - Rang De Tu Mohe Geruaa", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ghar Se Nikalte Hi - Armaan Malik", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Gulabi Aankhen Jo Teri Dekhi", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "घूंघटे में चंदा है  फिरभी है फैला चारो ओर उजाला होश न खो दे कहीं जोश में देखने वाला "}
 		],
 
-		"h": [
-
-			"Hai Apna Dil To Awara",
-
-			"Hai Preet Jahan Ki Reet Sada - Bharat Ka Rehne Wala Hoon",
-
-			"Hamari Adhuri Kahani",
-
-			"Hare Krishna Mantra - Hare Krishna",
-
-			"Hare Krishna",
-
-			"Hey Ram Hey Ram",
-
-			"Hothon Se Choo Lo Tum",
-
-			"Hum Ko Man Ki Shakti Dena"
-
+		"h" : [
+		{"lyrics" : "Hai Apna Dil To Awara", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Hai Preet Jahan Ki Reet Sada - Bharat Ka Rehne Wala Hoon", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Hamari Adhuri Kahani", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Hare Krishna Mantra - Hare Krishna", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Hare Krishna", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Hey Ram Hey Ram", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Hothon Se Choo Lo Tum", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Hum Ko Man Ki Shakti Dena"}
 		],
 
-		"j": [
 
-			"जाते हो परदेस पिया जाते ही खत लिखना ",
-
-			"जानेमन चुपके चुपके सारी दुनिया से छुपके तुमने ऐसी बात कही दिल मेरा खो गया ",
-
-			"जाने क्यों लोग मोहब्बत किया करते हैं ",
-
-			"जानेमन तू खूब है खूब है तू खूब है ",
-
-			"जाने नहीं देंगे तुझे जाने तुझे देंगे नहीं ",
-
-			"ज़माने के देखे हैं रंग हज़ार नहीं कुछ सिवा प्यार के ",
-
-			"जानेवाले ओ जानेवाले किया तुझे हमने ",
-
-			"जितनी दफा देखूं तुझे धड़के जोरो से ऐसा तो कभी हुआ ही नहीं मिलके गैरों से ",
-
-			"जितना मैं चाहूँ तुझे कोई किसी को न चाहे ",
-
-			"जवानी तेरी बिजली की तार है ",
-
-			"जवानी जानेमन हसीन दिलरुबा मिले तो दिल जवान निसार हो गए ",
-
-			"जबसे तेरे नैना मेरे नैनो से लागे रे तबसे दीवाना हुआ सबसे बेगाना हुआ",
-
-			"Jaane Jaan Dhoondta Phir Raha",
-
-			"Jaane Kahan Gaye Woh Din",
-
-			"Jab Koi Baat Bigad Jaye - Updated",
-
-			"Jab Se Mera Dil Tera Hua",
-
-			"Jag Ghoomeya Thare Jaisa Na Koi",
-
-			"Jag Mein Sundar Hain Do Naam",
-
-			"Jagat Ke Rang Kya Dekhu - Krishna Bhajan",
-
-			"Jahan Daal Daal Par Sone Ki Chidiya",
-
-			"Jai Ganesh Deva - Ganesh Aarti",
-
-			"Jai Ho - Aaja Aaja Jind Shamiyane Ke Tale",
-
-			"Jaise Suraj Ki Garmi Se Jalte Hue Tan Ko",
-
-			"Jana Gana Mana - National Anthem",
-
-			"Janam Janam Janam Saath Chalna",
-
-			"ज़रा सामने तो आओ छलिये - Harmonium Notes",
-
-			"Jeena Jeena - Dehleez Pe Mere Dil Ki",
-
-			"Jeena Yahan Marna Yahan",
-
-			"Iske Siva Jaana Kahan",
-
-			"Jeeta Tha Jiske Liye - Ek Aisi Ladki Thi",
-
-			"Jhilmil Sitaron Ka Aangan Hoga",
-
-			"Jingle Bell Rock – Keyboard Notes",
-
-			"Jyot Se Jyot Jagate Chalo"
-
+		"j" : [
+		{"lyrics" : "जाते हो परदेस पिया जाते ही खत लिखना ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "जानेमन चुपके चुपके सारी दुनिया से छुपके तुमने ऐसी बात कही दिल मेरा खो गया ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "जाने क्यों लोग मोहब्बत किया करते हैं ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "जानेमन तू खूब है खूब है तू खूब है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "जाने नहीं देंगे तुझे जाने तुझे देंगे नहीं ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "ज़माने के देखे हैं रंग हज़ार नहीं कुछ सिवा प्यार के ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "जानेवाले ओ जानेवाले किया तुझे हमने ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "जितनी दफा देखूं तुझे धड़के जोरो से ऐसा तो कभी हुआ ही नहीं मिलके गैरों से ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "जितना मैं चाहूँ तुझे कोई किसी को न चाहे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "जवानी तेरी बिजली की तार है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "जवानी जानेमन हसीन दिलरुबा मिले तो दिल जवान निसार हो गए ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "जबसे तेरे नैना मेरे नैनो से लागे रे तबसे दीवाना हुआ सबसे बेगाना हुआ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jaane Jaan Dhoondta Phir Raha", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jaane Kahan Gaye Woh Din", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jab Koi Baat Bigad Jaye - Updated", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jab Se Mera Dil Tera Hua", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jag Ghoomeya Thare Jaisa Na Koi", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jag Mein Sundar Hain Do Naam", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jagat Ke Rang Kya Dekhu - Krishna Bhajan", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jahan Daal Daal Par Sone Ki Chidiya", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jai Ganesh Deva - Ganesh Aarti", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jai Ho - Aaja Aaja Jind Shamiyane Ke Tale", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jaise Suraj Ki Garmi Se Jalte Hue Tan Ko", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jana Gana Mana - National Anthem", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Janam Janam Janam Saath Chalna", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "ज़रा सामने तो आओ छलिये - Harmonium Notes", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jeena Jeena - Dehleez Pe Mere Dil Ki", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jeena Yahan Marna Yahan", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Iske Siva Jaana Kahan", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jeeta Tha Jiske Liye - Ek Aisi Ladki Thi", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jhilmil Sitaron Ka Aangan Hoga", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jingle Bell Rock – Keyboard Notes", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Jyot Se Jyot Jagate Chalo"}
 		],
 
-		"k": [
-
-			"कजरा रे कजरा रे तेरे कारे कारे नैना ",
-
-			"कब तक याद करूँ मैं उसको कबतक अश्क बहाऊँ यारो रब से दुआ करो मै उसको भूल जाऊँ ",
-
-			"कब तक जवानी छुपाओगी रानी कवारों को कितना सतावोगी रानी ",
-
-			"कभी जो बदल बरसे ",
-
-			"कभी तो पास मेरे आओ कभी तो नजरे मुझसे मिलाओ ",
-
-			"कितने अरमान जागे तेरे वास्ते सोनिये ",
-
-			"कितने दिनों के बाद है आयी सजना रात मिलन की ",
-
-			"कितनी बेचैन होक तुमसे मिली ",
-
-			"किसी की मुस्कुराहटों पे हो निसार किसी दर्द मिल सके तो ले उधार ",
-
-			"किसी से तुम प्यार करो तो फिर इजहार करो कहीं न फिर देर हो जाये ",
-
-			"किसी डिस्को में जाएँ किसी होटल में खाएं चलो इश्क लड़ायें ",
-
-			"किसी नजर को तेरा इंतज़ार आज भी है ",
-
-			"किसी दिन बनूंगी मै राजा की रानी जरा फिर से कहना ",
-
-			"क्या हुआ तेरा वादा वो कसम  इरादा ",
-
-			"क्या खूब लगती हो बड़ी सुन्दर दिखती हो ",
-
-			"क्या तुम्हे पता है अये गुलशन मेरे दिलबर आने वाले हैं ",
-
-			"क्या से क्या हो गया बेवफा ",
-
-			"तेरे प्यार में ",
-
-			"क्युकी इतना प्यार तुमको करते हैं सनम ",
-
-			"कुछ तो लोग कहेंगे लोगो का काम है कहना",
-
-			"Kabhi Kabhi Mere Dil Mein Khayal Aata Hai",
-
-			"Kabhi Khushi Kabhie Gham - Meri Saason Mein Tu Hai Samaya",
-
-			"Kabhi Ram Banke",
-
-			"Kabhi Shyam Banke",
-
-			"Kahin Door Jab Din Dhal Jaye",
-
-			"Kal Ho Naa Ho - Har Ghadi Badal Rahi Hai",
-
-			"Kar Chale Hum Fida Jan-o Tan Sathiyon",
-
-			"Kar Har Maidan Fateh",
-
-			"Kaun Hai Jo Sapno Mein Aaya - M. Rafi",
-
-			"Keyboard Notes for Old Hindi Songs",
-
-			"Kishore Kumar",
-
-			"Kisiki Muskurahato Pe Ho Nisar - Simplified",
-
-			"Kuch Kuch Hota Hai - Tum Paas Aaye",
-
-			"Kuchh To Log Kahenge",
-
-			"Kya Hua Tera Wada Wo Kasam Wo Irada"
-
+		"k" : [
+		{"lyrics" : "कजरा रे कजरा रे तेरे कारे कारे नैना ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "कब तक याद करूँ मैं उसको कबतक अश्क बहाऊँ यारो रब से दुआ करो मै उसको भूल जाऊँ ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "कब तक जवानी छुपाओगी रानी कवारों को कितना सतावोगी रानी ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "कभी जो बदल बरसे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "कभी तो पास मेरे आओ कभी तो नजरे मुझसे मिलाओ ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "कितने अरमान जागे तेरे वास्ते सोनिये ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "कितने दिनों के बाद है आयी सजना रात मिलन की ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "कितनी बेचैन होक तुमसे मिली ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "किसी की मुस्कुराहटों पे हो निसार किसी दर्द मिल सके तो ले उधार ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "किसी से तुम प्यार करो तो फिर इजहार करो कहीं न फिर देर हो जाये ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "किसी डिस्को में जाएँ किसी होटल में खाएं चलो इश्क लड़ायें ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "किसी नजर को तेरा इंतज़ार आज भी है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "किसी दिन बनूंगी मै राजा की रानी जरा फिर से कहना ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "क्या हुआ तेरा वादा वो कसम  इरादा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "क्या खूब लगती हो बड़ी सुन्दर दिखती हो ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "क्या तुम्हे पता है अये गुलशन मेरे दिलबर आने वाले हैं ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "क्या से क्या हो गया बेवफा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तेरे प्यार में ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "क्युकी इतना प्यार तुमको करते हैं सनम ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "कुछ तो लोग कहेंगे लोगो का काम है कहना", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kabhi Kabhi Mere Dil Mein Khayal Aata Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kabhi Khushi Kabhie Gham - Meri Saason Mein Tu Hai Samaya", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kabhi Ram Banke", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kabhi Shyam Banke", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kahin Door Jab Din Dhal Jaye", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kal Ho Naa Ho - Har Ghadi Badal Rahi Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kar Chale Hum Fida Jan-o Tan Sathiyon", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kar Har Maidan Fateh", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kaun Hai Jo Sapno Mein Aaya - M. Rafi", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Keyboard Notes for Old Hindi Songs", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kishore Kumar", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kisiki Muskurahato Pe Ho Nisar - Simplified", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kuch Kuch Hota Hai - Tum Paas Aaye", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kuchh To Log Kahenge", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kya Hua Tera Wada Wo Kasam Wo Irada"}
 		],
 
-		"t": [
 
-			"तुम मिले दिल खिले और जीने को क्या चाहिए ",
-
-			"तुम्हारी नजरों में हमने देखा गज़ब सी चाहत झलक रही है ",
-
-			"तुम्हे दिल लगी भूल जानी पड़ेगी कभी दिल किसी से लगा के तो देखो ",
-
-			"तुम्ही हो माता पिता तुम्ही हो तुम्ही हो बंधू सखा तुम्ही हो ",
-
-			"तूने जो न कहा मैं वो सुनता रहा खामखा बेवजह खाब रहा ",
-
-			"तूने मेरे जाना कभी नहीं जाना इश्क़ मेरा दर्द मेरा ",
-
-			"तूने मारी एंट्री यार दिल में बजी घंटी यार ",
-
-			"तुम जो आये ज़िंदगी में बात बन गयी ",
-
-			"तेरी आख्या का यो काजल मन्ने करे से गोरी घायल ",
-
-			"तेरी मिटटी में मिल जावां गुल बनके मैं खिल जावा ",
-
-			"तेरी ऊँगली पकड़ के चला ममता के आँचल में ",
-
-			"तेरी प्यारी प्यारी दो अंखिया तडपावे मुझे सारी रतिया ",
-
-			"तू बेवफा है जो मै जान जाता ",
-
-			"तू कितनी अच्छी है तू कितनी भोली है प्यारी प्यारी है"
-
+		"t" : [
+		{"lyrics" : "तुम मिले दिल खिले और जीने को क्या चाहिए ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तुम्हारी नजरों में हमने देखा गज़ब सी चाहत झलक रही है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तुम्हे दिल लगी भूल जानी पड़ेगी कभी दिल किसी से लगा के तो देखो ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तुम्ही हो माता पिता तुम्ही हो तुम्ही हो बंधू सखा तुम्ही हो ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तूने जो न कहा मैं वो सुनता रहा खामखा बेवजह खाब रहा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तूने मेरे जाना कभी नहीं जाना इश्क़ मेरा दर्द मेरा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तूने मारी एंट्री यार दिल में बजी घंटी यार ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तुम जो आये ज़िंदगी में बात बन गयी ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तेरी आख्या का यो काजल मन्ने करे से गोरी घायल ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तेरी मिटटी में मिल जावां गुल बनके मैं खिल जावा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तेरी ऊँगली पकड़ के चला ममता के आँचल में ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तेरी प्यारी प्यारी दो अंखिया तडपावे मुझे सारी रतिया ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तू बेवफा है जो मै जान जाता ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "तू कितनी अच्छी है तू कितनी भोली है प्यारी प्यारी है] ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ae Dil Hai Mushkil - Title Track - Tu Safar Mera", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Allah Ke Bande - Toota Toota ek Parinda", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Chahun Main Ya Naa - Tu Hi Ye Mujhko Bata De", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kuch Kuch Hota Hai - Tum Paas Aaye", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Main Agar Kahoon - Tumko Paya Hai To", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Shiv Tandav Stotram", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tere Jaisa Yaar Kahaa", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tere Man Mein Ram", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tan Mein Ram", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tere Naam Humne Kiya Hai - Tere Naam", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Teri Duniya Se Door Chale Hoke Majboor", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Teri Jhalak Asharfi", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Srivalli - Pushpa (2022)", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Teri Mitti Mein Mil Jawaan", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tora Man Darpan Kehlaye", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tu Safar Mera", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Teri Jhalak Asharfi Srivalli - Pushpa (2022)", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tu Pyar Ka Sagar Hai - Updated", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tujh mein Rab Dikhta Hai - Tu Hi To Jannat Meri", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tujhe Dekha To Ye Jana Sanam ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tujhse Naraz Nahi Zindagi", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tum Hi Ho - Hum Tere Bin Ab Reh Nahi Sakte", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Tumko Dekha to Yeh Khayal Aaya", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Twinkle Twinkle Little Star"}
+		],
+		
+		"n" : [
+		{"lyrics" : "नहीं ये हो नहीं सकता की तेरी याद न आये ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "नहीं चाहिए दिल दुखाना किसी का सदा न रहा है सदा न रहेगा ज़माना ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "नानी तेरी मोरनी को मोर ले गए बाकि जो बचा था काले चोर ले गए ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "नशा ये प्यार का नशा है नशे मे", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "नैना रे तू ही बुरा तुझसे बुरा न कोई खुदही दिल का रोग लगाए खुद ही बैठा रोये ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "नैनो की मत मनियो रे नैनो की मत सुनियों नैना ठग लेंगे "}
 		],
 
-		"n": [
-
-			"नहीं ये हो नहीं सकता की तेरी याद न आये ",
-
-			"नहीं चाहिए दिल दुखाना किसी का सदा न रहा है सदा न रहेगा ज़माना ",
-
-			"नानी तेरी मोरनी को मोर ले गए बाकि जो बचा था काले चोर ले गए ",
-
-			"नशा ये प्यार का नशा है नशे मे",
-
-			"नैना रे तू ही बुरा तुझसे बुरा न कोई खुदही दिल का रोग लगाए खुद ही बैठा रोये ",
-
-			"नैनो की मत मनियो रे नैनो की मत सुनियों नैना ठग लेंगे "
-
+		"m" : [
+		{"lyrics" : "मैं जहाँ रहूं मैं कहीं भी हूँ तेरी याद ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मैं तनु समझावां की न तेरे बाज़ो लगदा जी तू की जाने प्यार मेरा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मैं जिस दिन भुला दूँ तेरा प्यार दिल से वो दिन आखरी हो मेरी जिंदगी का ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मैं शराबी शराबी मैं शराबी ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "माना की हम यार नहीं लो तय है की प्यार नहीं फिर भी नजरें न तुम मिलाना दिल का ऐतबार नहीं ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मेरी तरह तुम भी कभी प्यार करके देखो न ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मैंने पुछा चाँद से की देखा है कहीं मेरे यार सा हसीं ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मेरा मन क्यों तुम्हे चाहे मेरा मन ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मोहे पनघट पे नन्दलाल छेड गयो रे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मेरे सामने वाली खिड़की पे इक चाँद का टुकड़ा रहता है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मेरे मेहबूब कयामत होगी आज रुशवा तेरी गलियों में मोहब्बत होगी ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मेरे सपनो की रानी कब आएगी तू आयी रुत मस्तानी कब आएगी तू ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "मेरे नसीब में तू है की नहीं तेरे नसीब में मैं हूँ के नहीं ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Meri Saason Mein Tu Hai Samaya", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Madhuban Khushboo Deta Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Maha Mrityunjaya Mantra - Om Tryambakam Yajamahe", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Maili Chadar Odh Ke Kaise – Keyboard Notes", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Main Agar Kahoon - Tumko Paya Hai To", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Main Shayar To Nahin", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Man Dole Mera Tan Dole", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Man Lagyo Mero Yaar Fakiri Mein – Keyboard Notes", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mangal Bhavan Amangal Hari - Ramayan Chaupai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mary Had A Little Lamb - Song for Children", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mehndi Laga Ke Rakhna", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mera Aapki Kripa Se Sab Kaam Ho Raha Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mera Bhola Hai Bhandari", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kare Nandi Ki Sawari", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mera Dil Bhi Kitna Pagal Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mera Dil Ye Pukare Aaja", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mera Naam Raju Gharana Anaam - Keyboard Notes", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mera Rang De Basanti Chola - Shaheed", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mere Desh Ki Dharti Sona Ugle", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mere Haath Mein Tera Haath Ho", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mere Mehboob Qayamat Hogi", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mere Rang Me Rangne Wali", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mere Rashke Qamar", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mere Samne Wali Khidki Mein", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mere Sapno Ki Rani Kab Aayegi Tu", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Meri Bheegi Bheegi Si Palkon Pe Reh Gaye", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Meri Mehbooba - Kisi Roz Tumse Mulakaat Hogi", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Mile Ho Tum Humko", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Bade Naseebon Se", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Yeh moh moh ke dhaage", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Musafir Hoon Yaron", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Muskurane Ki Wajah Tum Ho"},
+		{"lyrics" : "Phir Bhi Tumko Chaahunga - Main Phir Bhi"}
 		],
 
-		"m": ["मैं जहाँ रहूं मैं कहीं भी हूँ तेरी याद ",
-
-			"मैं तनु समझावां की न तेरे बाज़ो लगदा जी तू की जाने प्यार मेरा ",
-
-			"मैं जिस दिन भुला दूँ तेरा प्यार दिल से वो दिन आखरी हो मेरी जिंदगी का ",
-
-			"मैं शराबी शराबी मैं शराबी ",
-
-			"माना की हम यार नहीं लो तय है की प्यार नहीं फिर भी नजरें न तुम मिलाना दिल का ऐतबार नहीं ",
-
-			"मेरी तरह तुम भी कभी प्यार करके देखो न ",
-
-			"मैंने पुछा चाँद से की देखा है कहीं मेरे यार सा हसीं ",
-
-			"मेरा मन क्यों तुम्हे चाहे मेरा मन ",
-
-			"मोहे पनघट पे नन्दलाल छेड गयो रे ",
-
-			"मेरे सामने वाली खिड़की पे इक चाँद का टुकड़ा रहता है ",
-
-			"मेरे मेहबूब कयामत होगी आज रुशवा तेरी गलियों में मोहब्बत होगी ",
-
-			"मेरे सपनो की रानी कब आएगी तू आयी रुत मस्तानी कब आएगी तू ",
-
-			"मेरे नसीब में तू है की नहीं तेरे नसीब में मैं हूँ के नहीं ",
-
-			"Meri Saason Mein Tu Hai Samaya",
-
-			"Madhuban Khushboo Deta Hai",
-
-			"Maha Mrityunjaya Mantra - Om Tryambakam Yajamahe",
-
-			"Maili Chadar Odh Ke Kaise – Keyboard Notes",
-
-			"Main Agar Kahoon - Tumko Paya Hai To",
-
-			"Main Shayar To Nahin",
-
-			"Man Dole Mera Tan Dole",
-
-			"Man Lagyo Mero Yaar Fakiri Mein – Keyboard Notes",
-
-			"Mangal Bhavan Amangal Hari - Ramayan Chaupai",
-
-			"Mary Had A Little Lamb - Song for Children",
-
-			"Mehndi Laga Ke Rakhna",
-
-			"Mera Aapki Kripa Se Sab Kaam Ho Raha Hai",
-
-			"Mera Bhola Hai Bhandari",
-
-			"Kare Nandi Ki Sawari",
-
-			"Mera Dil Bhi Kitna Pagal Hai",
-
-			"Mera Dil Ye Pukare Aaja",
-
-			"Mera Naam Raju Gharana Anaam - Keyboard Notes",
-
-			"Mera Rang De Basanti Chola - Shaheed",
-
-			"Mere Desh Ki Dharti Sona Ugle",
-
-			"Mere Haath Mein Tera Haath Ho",
-
-			"Mere Mehboob Qayamat Hogi",
-
-			"Mere Rang Me Rangne Wali",
-
-			"Mere Rashke Qamar",
-
-			"Mere Samne Wali Khidki Mein",
-
-			"Mere Sapno Ki Rani Kab Aayegi Tu",
-
-			"Meri Bheegi Bheegi Si Palkon Pe Reh Gaye",
-
-			"Meri Mehbooba - Kisi Roz Tumse Mulakaat Hogi",
-
-			"Mile Ho Tum Humko",
-
-			"Bade Naseebon Se",
-
-			"Yeh moh moh ke dhaage",
-
-			"Musafir Hoon Yaron",
-
-			"Muskurane Ki Wajah Tum Ho",
-
-			"Phir Bhi Tumko Chaahunga - Main Phir Bhi"
-
+		"r" :[
+		{"lyrics" : "राहों में उनसे मुलाकात हो गयी जिससे डरते थे वही बात हो गयी ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "रब हसता हुआ रक्खे तुमको तुम तो हसने की आदि हो ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "रब को याद करूँ इक फ़रियाद करूँ बिछड़ा यार मिला दे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "रहा गर्दिशो में हरदम मेरे इश्क़ का सितारा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "रंग बरसे भीगे चुनर वाली रंग बरसे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "रब जो चाहे वही तो होना है आदमी खिलौना है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "रोई न जे याद मेरी आयी वे खुश रही आंख जे भर आयी वे ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Raghupati Raghav Raja Ram", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Rahi Manwa Dukh ki Chinta", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Kyon Satati Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Rang Barse Bheege Chunar Wali - Updated", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Rim Jhim Gire Sawan", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Roja Janeman Tu Hi Mera Dil", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ruk Ja O Dil Deewane"}
 		],
 
-		"r": [
-
-			"राहों में उनसे मुलाकात हो गयी जिससे डरते थे वही बात हो गयी ",
-
-			"रब हसता हुआ रक्खे तुमको तुम तो हसने की आदि हो ",
-
-			"रब को याद करूँ इक फ़रियाद करूँ बिछड़ा यार मिला दे ",
-
-			"रहा गर्दिशो में हरदम मेरे इश्क़ का सितारा ",
-
-			"रंग बरसे भीगे चुनर वाली रंग बरसे ",
-
-			"रब जो चाहे वही तो होना है आदमी खिलौना है ",
-
-			"रोई न जे याद मेरी आयी वे खुश रही आंख जे भर आयी वे ",
-
-			"Raghupati Raghav Raja Ram",
-
-			"Rahi Manwa Dukh ki Chinta",
-
-			"Kyon Satati Hai",
-
-			"Rang Barse Bheege Chunar Wali - Updated",
-
-			"Rim Jhim Gire Sawan",
-
-			"Roja Janeman Tu Hi Mera Dil",
-
-			"Ruk Ja O Dil Deewane"
-
+		"i" : [
+		{"lyrics" : "Itni Shakti Hame Dena Data"}
 		],
 
-		"i": [
-
-			"Itni Shakti Hame Dena Data"
-
+		"l" : [
+		{"lyrics" : "Lag Ja Gale Ke Phir Ye Haseen Raat Ho Na Ho", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Likhe Jo Khat Tujhe", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Namo Namo Shankara - Jai Ho Jai Ho Shankara", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Na Jaane Mere - Ho Gaya Hai Tujhko To Pyar Sajna", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Nagin Dhun - Piano Notes", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Namo Namo Shankara - Jai Ho Jai Ho Shankara - Kedarnath", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Nand Ke Anand Bhayo – Janmashtami Bhajan", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Nanha Munna Rahi Hoon Desh ka Sipaahi Hoon", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ho Gaya Hai Tujhko To Pyar Sajna – Na Jaane Mere", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Neele Neele Ambar Par", "name" : "", "singer" : "", "year": "", "movie" : ""}
+		],
+		
+		"o" : [
+		{"lyrics" : "ओ दुनियाँ के रख वाले ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "O Mere Dil Ke Chain", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "O O Jaane Jaana", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "O Palan Hare Nirgun Aur Nyare", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "O Sathi Re Tere Bina Bhi Kya Jeena", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Old MacDonald Had A Farm", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Om Gan Ganpataye Namo Namah - Ganesh Mantra", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Om Jai Jagdish Hare", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Om Namah Shivay - Har Har Bhole Namah Shiva", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Shiv Aarti - Om Jai Shiv Omkara"}
 		],
 
-		"l": [
-
-			"Lag Ja Gale Ke Phir Ye Haseen Raat Ho Na Ho",
-
-			"Likhe Jo Khat Tujhe",
-
-			"Namo Namo Shankara - Jai Ho Jai Ho Shankara",
-
-			"Na Jaane Mere - Ho Gaya Hai Tujhko To Pyar Sajna",
-
-			"Nagin Dhun - Piano Notes",
-
-			"Namo Namo Shankara - Jai Ho Jai Ho Shankara - Kedarnath",
-
-			"Nand Ke Anand Bhayo – Janmashtami Bhajan",
-
-			"Nanha Munna Rahi Hoon Desh ka Sipaahi Hoon",
-
-			"Ho Gaya Hai Tujhko To Pyar Sajna – Na Jaane Mere",
-
-			"Neele Neele Ambar Par"
-
+		"p" : [
+		{"lyrics" : "Pal Pal Dil Ke Paas", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Panchi Banu Udti Phiru - Keyboard Notes", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Panghat - Bahut Kathin Hai Dagar Panghat Ki - Roohi (2021)", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Pardesi Pardesi Jana Nahi", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Pehla Nasha Pehla Khumar", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Phir Bhi Tumko Chaahunga - Main Phir Bhi", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Phoolon Ke Rang Se", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dil Ki Kalam Se", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Piano Keyboard Accessories - List", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Prem Ratan Dhan Payo", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Pukarta Chala Hoon Main", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Pyaar Hua Ikraar Hua Hai - Keyboard Notes", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Pyar Diwana Hota Hai"}
 		],
 
-		"o": [
-
-			"ओ दुनियाँ के रख वाले ",
-
-			"O Mere Dil Ke Chain",
-
-			"O O Jaane Jaana",
-
-			"O Palan Hare Nirgun Aur Nyare",
-
-			"O Sathi Re Tere Bina Bhi Kya Jeena",
-
-			"Old MacDonald Had A Farm",
-
-			"Om Gan Ganpataye Namo Namah - Ganesh Mantra",
-
-			"Om Jai Jagdish Hare",
-
-			"Om Namah Shivay - Har Har Bhole Namah Shiva",
-
-			"Shiv Aarti - Om Jai Shiv Omkara"
-
+		"s" : [
+		{"lyrics" : "De Di Hame Azadi - Sabarmati Ke Sant", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Dekhte Dekhte - Sochta Hoon ke Woh Kitne Masoom", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sach Keh Raha Hai Deewana Dil", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sach Mere Yaar Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sairat Zaala Ji", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sajan Re Jhoot Mat Bolo", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sanam Re", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sanam Re", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sandese Aate Hai - Border", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sare Jahan Se Achha Hindustan Hamara", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Shape of You - Ed Sheeran", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Shiv Aarti - Om Jai Shiv Omkara", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Shiv Shankar Ko Jisne Puja", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Shri Banke Bihari Teri Aarti Gaun", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Shri Ramchandra Kripalu Bhajman", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Shyam Teri Bansi Pukare Radha Naam", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Slow Motion - Bharat", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Soch Na Sake - Tere Liye Duniya Chod Di Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sooraj Dooba Hai Yaaron", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sukhkarta Dukhharta – Jai Dev Jai Mangal Murti", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Sunn Raha Hai Na Tu - Apne Karam Ki", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Swag Se Swagat - Swag Se Karenge Sabka Swagat"}
 		],
 
-		"p": [
-
-			"Pal Pal Dil Ke Paas",
-
-			"Panchi Banu Udti Phiru - Keyboard Notes",
-
-			"Panghat - Bahut Kathin Hai Dagar Panghat Ki - Roohi (2021)",
-
-			"Pardesi Pardesi Jana Nahi",
-
-			"Pehla Nasha Pehla Khumar",
-
-			"Phir Bhi Tumko Chaahunga - Main Phir Bhi",
-
-			"Phoolon Ke Rang Se",
-
-			"Dil Ki Kalam Se",
-
-			"Piano Keyboard Accessories - List",
-
-			"Prem Ratan Dhan Payo",
-
-			"Pukarta Chala Hoon Main",
-
-			"Pyaar Hua Ikraar Hua Hai - Keyboard Notes",
-
-			"Pyar Diwana Hota Hai"
-
+		"w" : [
+		{"lyrics" : "Woh Pehli Baar Jab Hum Mile", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Woh Sham Kuchh Ajeeb Thi"}
 		],
 
-		"s": [
-
-			"De Di Hame Azadi - Sabarmati Ke Sant",
-
-			"Dekhte Dekhte - Sochta Hoon ke Woh Kitne Masoom",
-
-			"Sach Keh Raha Hai Deewana Dil",
-
-			"Sach Mere Yaar Hai",
-
-			"Sairat Zaala Ji",
-
-			"Sajan Re Jhoot Mat Bolo",
-
-			"Sanam Re",
-
-			"Sanam Re",
-
-			"Sandese Aate Hai - Border",
-
-			"Sare Jahan Se Achha Hindustan Hamara",
-
-			"Shape of You - Ed Sheeran",
-
-			"Shiv Aarti - Om Jai Shiv Omkara",
-
-			"Shiv Shankar Ko Jisne Puja",
-
-			"Shri Banke Bihari Teri Aarti Gaun",
-
-			"Shri Ramchandra Kripalu Bhajman",
-
-			"Shyam Teri Bansi Pukare Radha Naam",
-
-			"Slow Motion - Bharat",
-
-			"Soch Na Sake - Tere Liye Duniya Chod Di Hai",
-
-			"Sooraj Dooba Hai Yaaron",
-
-			"Sukhkarta Dukhharta – Jai Dev Jai Mangal Murti",
-
-			"Sunn Raha Hai Na Tu - Apne Karam Ki",
-
-			"Swag Se Swagat - Swag Se Karenge Sabka Swagat"
-
+		"y" : [
+		{"lyrics" : "Yeh moh moh ke dhaage", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Yamaha Keyboards - List", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Yashomati Maiya Se Bole Nandlala", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ye Sama Sama Hai Ye Pyaar Ka", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Ye Sham Mastani Madhosh Kiye Jaye", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Yeh Jeevan Hai Is Jeevan Ka", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Yeh Jo Mohabbat Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Yeh Kahan Aa Gaye Hum", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "You Are My Sunshine", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "यारा ओ यारा मिलना हमारा जाने क्या रंग लाएगा ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "या अली मदद अली या अली वो मेरी जान वो जिंदगी ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "याद तेरी आती है मुझ तड़पाती है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "याद आ रही है तेरी याद आ रही है याद आने से तेरे जाने से जान जा रही है ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "याद तेरी आएगी मुझको बड़ा सताएगी ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "याद आ रहा है तेरा प्यार ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "याद पिया की आने लगी हाय भीगी भीगी रातों में ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "याद सताये तेरी नींद चुराए अब दिल न लगे दिलबर ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "याद उसकी दिला गया कोई ", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "ये शहर है अमन का यहाँ की फिजा है निराली यहाँ पे सब शांति शांति है"}
 		],
 
-		"ti": [
-
-			"Ae Dil Hai Mushkil - Title Track - Tu Safar Mera",
-
-			"Allah Ke Bande - Toota Toota ek Parinda",
-
-			"Chahun Main Ya Naa - Tu Hi Ye Mujhko Bata De",
-
-			"Kuch Kuch Hota Hai - Tum Paas Aaye",
-
-			"Main Agar Kahoon - Tumko Paya Hai To",
-
-			"Shiv Tandav Stotram",
-
-			"Tere Jaisa Yaar Kahaa",
-
-			"Tere Man Mein Ram",
-
-			"Tan Mein Ram",
-
-			"Tere Naam Humne Kiya Hai - Tere Naam",
-
-			"Teri Duniya Se Door Chale Hoke Majboor",
-
-			"Teri Jhalak Asharfi",
-
-			"Srivalli - Pushpa (2022)",
-
-			"Teri Mitti Mein Mil Jawaan",
-
-			"Tora Man Darpan Kehlaye",
-
-			"Tu Safar Mera",
-
-			"Teri Jhalak Asharfi Srivalli - Pushpa (2022)",
-
-			"Tu Pyar Ka Sagar Hai - Updated",
-
-			"Tujh mein Rab Dikhta Hai - Tu Hi To Jannat Meri",
-
-			"Tujhe Dekha To Ye Jana Sanam ",
-
-			"Tujhse Naraz Nahi Zindagi",
-
-			"Tum Hi Ho - Hum Tere Bin Ab Reh Nahi Sakte",
-
-			"Tumko Dekha to Yeh Khayal Aaya",
-
-			"Twinkle Twinkle Little Star"
-
-		],
-
-		"w": [
-
-			"Woh Pehli Baar Jab Hum Mile",
-
-			"Woh Sham Kuchh Ajeeb Thi"
-
-		],
-
-		"y": [
-
-			"Yeh moh moh ke dhaage",
-
-			"Yamaha Keyboards - List",
-
-			"Yashomati Maiya Se Bole Nandlala",
-
-			"Ye Sama Sama Hai Ye Pyaar Ka",
-
-			"Ye Sham Mastani Madhosh Kiye Jaye",
-
-			"Yeh Jeevan Hai Is Jeevan Ka",
-
-			"Yeh Jo Mohabbat Hai",
-
-			"Yeh Kahan Aa Gaye Hum",
-
-			"You Are My Sunshine",
-
-			"यारा ओ यारा मिलना हमारा जाने क्या रंग लाएगा ",
-
-			"या अली मदद अली या अली वो मेरी जान वो जिंदगी ",
-
-			"याद तेरी आती है मुझ तड़पाती है ",
-
-			"याद आ रही है तेरी याद आ रही है याद आने से तेरे जाने से जान जा रही है ",
-
-			"याद तेरी आएगी मुझको बड़ा सताएगी ",
-
-			"याद आ रहा है तेरा प्यार ",
-
-			"याद पिया की आने लगी हाय भीगी भीगी रातों में ",
-
-			"याद सताये तेरी नींद चुराए अब दिल न लगे दिलबर ",
-
-			"याद उसकी दिला गया कोई ",
-
-			"ये शहर है अमन का यहाँ की फिजा है निराली यहाँ पे सब शांति शांति है"
-
-		],
-
-		"z": [
-
-			"Zindagi Ka Safar Hai Ye Kaisa Safar",
-
-			"Zindagi Pyaar Ka Geet Hai Isse Har Dil Ko Gaana Padega"
-
+		"z" : [
+		{"lyrics" : "Zindagi Ka Safar Hai Ye Kaisa Safar", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Zindagi Pyaar Ka Geet Hai", "name" : "", "singer" : "", "year": "", "movie" : ""},
+		{"lyrics" : "Isse Har Dil Ko Gaana Padega"}
 		]
-
+	},
+	"Punjabi Songs" : {
+	
+		"a" : [
+		{ "name": "" , "lyrics" : "" }
+		]
+		
 	}
-
 }
